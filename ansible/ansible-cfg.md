@@ -1,3 +1,5 @@
+# ansible.cfg
+
 Ansible should not be in a world writable directory.
 
 ```
