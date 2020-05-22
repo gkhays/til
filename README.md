@@ -12,4 +12,4 @@
 
 ### Ansible
 
-- [ansible.cfg](ansible/ansible-cfg.md)
+- [Ansible configuration directory should not be world writable](ansible/ansible-cfg.md)
