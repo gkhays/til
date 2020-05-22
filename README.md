@@ -7,7 +7,7 @@
 ### Categories
 
 * [Ansible](#ansible)
-* [Microsoft Teams](#msteams)
+* [Microsoft Teams](#Microsoft Teams)
 
 ---
 
