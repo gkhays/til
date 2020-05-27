@@ -7,6 +7,7 @@
 ### Categories
 
 - [Ansible](#ansible)
+- [Authentication](#authentication)
 - [HTTP](#http)
 - [Microsoft Teams](#microsoft-teams)
 
@@ -15,6 +16,10 @@
 ### Ansible
 
 - [Ansible configuration directory should not be world writable](ansible/ansible-cfg.md)
+
+### Authentication
+
+- [JSON Web Token (JWT) debugger](authentication/jwt-io.md)
 
 ### HTTP
 
