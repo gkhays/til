@@ -6,8 +6,9 @@
 
 ### Categories
 
-* [Ansible](#ansible)
-* [Microsoft Teams](#microsoft-teams)
+- [Ansible](#ansible)
+- [HTTP](#http)
+- [Microsoft Teams](#microsoft-teams)
 
 ---
 
@@ -15,13 +16,17 @@
 
 - [Ansible configuration directory should not be world writable](ansible/ansible-cfg.md)
 
+### HTTP
+
+- [A simple HTTP Request & Response Service](http/httpbin.md)
+
 ### Microsoft Teams
 
 - [Navigate from the keyboard](msteams/navigate.md)
 
 ## Acknowledgements
 
-I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
+I "borrowed" this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ## License
 
