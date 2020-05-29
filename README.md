@@ -10,6 +10,8 @@
 - [Authentication](#authentication)
 - [HTTP](#http)
 - [Microsoft Teams](#microsoft-teams)
+- [Ubuntu](#ubuntu)
+- [VMware](#vmware)
 
 ---
 
@@ -28,6 +30,14 @@
 ### Microsoft Teams
 
 - [Navigate from the keyboard](msteams/navigate.md)
+
+### Ubuntu
+
+- [Recover root password on Ubuntu 18.04](ubuntu/recover-passwd.md)
+
+### VMware
+
+- [Force BIOS Setup](vmware/force-bios.md)
 
 ## Acknowledgements
 
