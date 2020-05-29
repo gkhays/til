@@ -8,6 +8,7 @@
 
 - [Ansible](#ansible)
 - [Authentication](#authentication)
+- [Chrome](#chrome)
 - [HTTP](#http)
 - [Microsoft Teams](#microsoft-teams)
 - [Ubuntu](#ubuntu)
@@ -22,6 +23,10 @@
 ### Authentication
 
 - [JSON Web Token (JWT) debugger](authentication/jwt-io.md)
+
+### Chrome
+
+- [Chrome Proxy](chrome/proxy.md)
 
 ### HTTP
 
