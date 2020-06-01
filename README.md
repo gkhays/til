@@ -35,6 +35,7 @@
 ### Microsoft Teams
 
 - [Navigate from the keyboard](msteams/navigate.md)
+- [Export Wiki as PDF Document](msteams/export-wiki.md)
 
 ### Ubuntu
 
