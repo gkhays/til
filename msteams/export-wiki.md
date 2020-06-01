@@ -18,7 +18,7 @@ Content-Type: text/html; charset="utf-8"
 
 Now you may view the file in your browser and use the print to PDF function available in most browsers. E.g.
 
-![Print as PDF](../images/print-as-PDF.png)
+![Print as PDF](../images/print-as-pdf.png)
 
 ## References
 
