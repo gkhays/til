@@ -11,6 +11,7 @@
 - [Chrome](#chrome)
 - [HTTP](#http)
 - [Microsoft Teams](#microsoft-teams)
+- [SSH](#ssh)
 - [Ubuntu](#ubuntu)
 - [VMware](#vmware)
 
@@ -36,6 +37,11 @@
 
 - [Navigate from the keyboard](msteams/navigate.md)
 - [Export Wiki as PDF Document](msteams/export-wiki.md)
+
+### SSH
+
+- [sshpass](ssh/sshpass.md)
+- [ssh-copy-id](ssh/ssh-copy-id)
 
 ### Ubuntu
 
