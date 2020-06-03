@@ -12,6 +12,7 @@
 - [HTTP](#http)
 - [Markdown](#markdown)
 - [Microsoft Teams](#microsoft-teams)
+- [PowerShell](#powershell)
 - [SSH](#ssh)
 - [Ubuntu](#ubuntu)
 - [VMware](#vmware)
@@ -42,6 +43,10 @@
 
 - [Navigate from the keyboard](msteams/navigate.md)
 - [Export Wiki as PDF Document](msteams/export-wiki.md)
+
+### PowerShell
+
+- [Get Windows Capability](powershell/get-capability.md)
 
 ### SSH
 
