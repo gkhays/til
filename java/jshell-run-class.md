@@ -10,7 +10,8 @@ Then
 
 ```java
 jshell> /list
-jsehll> TestClass.main(null)
+jshell> TestClass.main(null)
+jshell> /exit
 ```
 
 ## References
