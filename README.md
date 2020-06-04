@@ -10,6 +10,7 @@
 - [Authentication](#authentication)
 - [Chrome](#chrome)
 - [HTTP](#http)
+- [Java](#java)
 - [Markdown](#markdown)
 - [Microsoft Teams](#microsoft-teams)
 - [PowerShell](#powershell)
@@ -34,6 +35,10 @@
 ### HTTP
 
 - [A simple HTTP Request & Response Service](http/httpbin.md)
+
+### Java
+
+- [Execute a Java Class with JShell](java/jshell-run-class.md)
 
 ### Markdown
 
