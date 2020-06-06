@@ -9,6 +9,7 @@
 - [Ansible](#ansible)
 - [Authentication](#authentication)
 - [Chrome](#chrome)
+- [Git](#git)
 - [GitHub](#github)
 - [HTTP](#http)
 - [Java](#java)
@@ -32,6 +33,10 @@
 ### Chrome
 
 - [Chrome Proxy](chrome/proxy.md)
+
+### Git
+
+- [Recover Deleted Branch](git/recover-deleted.md)
 
 ### GitHub
 
