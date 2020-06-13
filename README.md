@@ -10,6 +10,7 @@
 - [Authentication](#authentication)
 - [Chrome](#chrome)
 - [Docker](#docker)
+- [Dropwizard](#dropwizard)
 - [Git](#git)
 - [GitHub](#github)
 - [HTTP](#http)
@@ -38,6 +39,10 @@
 ### Docker
 
 - [Compose, Build, and Tag](docker/compose-build.md)
+
+### Dropwizard
+
+- [Set the root path](dropwizard/root-path.md)
 
 ### Git
 
