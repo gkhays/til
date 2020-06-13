@@ -9,6 +9,7 @@
 - [Ansible](#ansible)
 - [Authentication](#authentication)
 - [Chrome](#chrome)
+- [Docker](#docker)
 - [Git](#git)
 - [GitHub](#github)
 - [HTTP](#http)
@@ -33,6 +34,10 @@
 ### Chrome
 
 - [Chrome Proxy](chrome/proxy.md)
+
+### Docker
+
+- [Compose, Build, and Tag](docker/compose-build.md)
 
 ### Git
 
