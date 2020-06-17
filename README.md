@@ -17,6 +17,7 @@
 - [Java](#java)
 - [Markdown](#markdown)
 - [Microsoft Teams](#microsoft-teams)
+- [Postman](#postman)
 - [PowerShell](#powershell)
 - [SSH](#ssh)
 - [Ubuntu](#ubuntu)
@@ -69,6 +70,10 @@
 
 - [Navigate from the keyboard](msteams/navigate.md)
 - [Export Wiki as PDF Document](msteams/export-wiki.md)
+
+### Postman
+
+- [Load payload from file](postman/file-payload.md)
 
 ### PowerShell
 
