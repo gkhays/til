@@ -43,6 +43,7 @@
 ### Dropwizard
 
 - [Set the root path](dropwizard/root-path.md)
+- [Shutdown options for Dropwizard](dropwizard/shutdown.md)
 
 ### Git
 
