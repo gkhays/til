@@ -40,6 +40,7 @@
 ### Docker
 
 - [Compose, Build, and Tag](docker/compose-build.md)
+- [Docker container statistics](docker/stats.md)
 
 ### Dropwizard
 
