@@ -41,6 +41,7 @@
 
 - [Compose, Build, and Tag](docker/compose-build.md)
 - [Docker container statistics](docker/stats.md)
+- [The difference between CMD and ENTRYPOINT](docker/cmd-entrypoint.md)
 
 ### Dropwizard
 
