@@ -90,6 +90,7 @@
 ### Ubuntu
 
 - [Recover root password on Ubuntu 18.04](ubuntu/recover-passwd.md)
+- [Disable ipv6 in Ubuntu](ubuntu/disable-ipv6.md)
 
 ### VMware
 
