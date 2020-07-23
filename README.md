@@ -22,6 +22,7 @@
 - [SSH](#ssh)
 - [Ubuntu](#ubuntu)
 - [VMware](#vmware)
+- [Windows](#windows)
 
 ---
 
