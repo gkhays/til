@@ -91,10 +91,16 @@
 
 - [Recover root password on Ubuntu 18.04](ubuntu/recover-passwd.md)
 - [Disable ipv6 in Ubuntu](ubuntu/disable-ipv6.md)
+- [Troubleshoot reverse lookups on Ubuntu 18.04](ubuntu/dhcp-reverse.md)
 
 ### VMware
 
 - [Force BIOS Setup](vmware/force-bios.md)
+
+### Windows
+
+- [Retrieve Windows product key](windows/productkey.md)
+- [Look up RGB codes with Microsoft Paint](windows/paint-dropper-tool.md)
 
 ## Acknowledgements
 
