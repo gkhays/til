@@ -21,9 +21,7 @@ DAOProxy proxy = new UnitOfWorkAwareProxyFactory(hibernate)
                         .create(DAOProxy.class, MyDAO.class, myDao);
 ```
 
-**Note**: where we wish transactions, we have annotated the methods with `@UnitOfWork`.
-
-Here is the proxy we will create.
+**Note**: where we wish transactions, we have annotated the methods with `@UnitOfWork`. Here is the proxy we will create.
 
 ```
 public class DAOProxy {
@@ -51,6 +49,7 @@ public class DAOProxy {
 
 1. [@UnitOfWork usable outside of Jersey Resource classes #1240](https://github.com/dropwizard/dropwizard/issues/1240)
 1. [Support `@UnitOfWork` outside of Jersey resources #1361](https://github.com/dropwizard/dropwizard/pull/1361)
+1. [How to use UnitOfWorkAwareProxyFactory in Dropwizard v1.1.0](https://stackoverflow.com/a/44434024/6146580)
 1. [Using Hibernate DAOs in DropWizard Tasks](https://spin.atomicobject.com/2015/02/03/dropwizard-hibernate-dao/)
 1. [Managed Session Transaction Provider (Gist)](https://gist.github.com/vvondra/1dbcd62306e40fa47294)
 
