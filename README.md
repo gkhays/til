@@ -48,6 +48,7 @@
 
 - [Set the root path](dropwizard/root-path.md)
 - [Shutdown options for Dropwizard](dropwizard/shutdown.md)
+- [Database transactions in non-Jersey resources](dropwizard/unitofwork-proxy.md)
 
 ### Git
 
