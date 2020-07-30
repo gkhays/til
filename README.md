@@ -66,6 +66,7 @@
 ### Java
 
 - [Execute a Java Class with JShell](java/jshell-run-class.md)
+- [Use Jackson to deserialize an array of objects](java/jackson-deserialize-array.md)
 
 ### Markdown
 
