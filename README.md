@@ -54,6 +54,7 @@
 
 - [Recover Deleted Branch](git/recover-deleted.md)
 - [Bypass Git Hooks](git/skip-hooks.md)
+- [Use Credential Manager Under WSL](git/cred-wsl.md)
 
 ### GitHub
 
