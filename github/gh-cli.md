@@ -35,8 +35,7 @@ Since I already use SSH Agent from GitHub for Windows, I can live with it being 
 ```bat
 call "%GIT_INSTALL_ROOT%/cmd/start-ssh-agent.cmd" /k exit
 :: call "C:\Program Files\OpenSSH\ssh-agent.exe"
-call "%GIT_INSTALL_ROOT%/usr/bin/ssh-add" %HOME%/.ssh/ghe_rsa
-call "%GIT_INSTALL_ROOT%/usr/bin/ssh-add" %HOME%/.ssh/gruntwork_rsa
+call "%GIT_INSTALL_ROOT%/usr/bin/ssh-add" %HOME%/.ssh/id_rsa
 ```
 
 ## References
