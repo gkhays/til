@@ -59,7 +59,7 @@
 ### GitHub
 
 - [Create Empty Folder with Online Editor](github/empty-dir.md)
-- [GitHub CLI](gh/gh-cli.md)
+- [GitHub CLI](github/gh-cli.md)
 
 ### HTTP
 
