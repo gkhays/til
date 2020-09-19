@@ -17,7 +17,7 @@ scoop install make
 Get-Command make
 ```
 
-Still no dice. But since I now had [Scoop](../pwsh/scoop.md), I just used it to install `gh-cli`. Also included [confcfg](https://github.com/lukesampson/concfg) for console settings and [pshazz](https://github.com/lukesampson/pshazz) for a nice Git prompt.
+Still no dice. But since I now had [Scoop](../powershell/scoop.md), I just used it to install `gh-cli`. Also included [confcfg](https://github.com/lukesampson/concfg) for console settings and [pshazz](https://github.com/lukesampson/pshazz) for a nice Git prompt.
 
 ```pwsh
 scoop bucket add github-gh https://github.com/cli/scoop-gh.git
