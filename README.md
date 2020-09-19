@@ -59,6 +59,7 @@
 ### GitHub
 
 - [Create Empty Folder with Online Editor](github/empty-dir.md)
+- [GitHub CLI](gh/gh-cli.md)
 
 ### HTTP
 
@@ -86,6 +87,9 @@
 ### PowerShell
 
 - [Get Windows Capability](powershell/get-capability.md)
+- [Scoop](powershell/scoop.md)
+- [Equivalent of Which in PowerShell](powershell/which.md)
+- [How to Dot Source in PowerShell](powershell/source.md)
 
 ### SSH
 
