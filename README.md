@@ -70,6 +70,7 @@
 - [Execute a Java Class with JShell](java/jshell-run-class.md)
 - [Use Jackson to deserialize an array of objects](java/jackson-deserialize-array.md)
 - [Ignore null values with Jackson](java/jackson-ignore-null.md)
+- [Add Classpath to Shaded JAR](java/shaded-classpath.md)
 
 ### Markdown
 
