@@ -97,6 +97,7 @@
 
 - [sshpass](ssh/sshpass.md)
 - [ssh-copy-id](ssh/ssh-copy-id)
+- [Show SSH Key Hashes](ssh/ssh-hash.md)
 
 ### Ubuntu
 
