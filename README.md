@@ -72,6 +72,7 @@
 - [Use Jackson to deserialize an array of objects](java/jackson-deserialize-array.md)
 - [Ignore null values with Jackson](java/jackson-ignore-null.md)
 - [Add Classpath to Shaded JAR](java/shaded-classpath.md)
+- [Import External Library in JShell](java/jshell-import-jar.md)
 
 ### Markdown
 
