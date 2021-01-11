@@ -44,18 +44,23 @@
 - [Docker container statistics](docker/stats.md)
 - [The difference between CMD and ENTRYPOINT](docker/cmd-entrypoint.md)
 - [Docker Compose Restart Policy](docker/docker-compose-restart.md)
+- [Docker Health Check](docker/health-check.md)
+- [Format Docker Inspect with jq](docker/format-jq.md)
 
 ### Dropwizard
 
 - [Set the root path](dropwizard/root-path.md)
 - [Shutdown options for Dropwizard](dropwizard/shutdown.md)
 - [Database transactions in non-Jersey resources](dropwizard/unitofwork-proxy.md)
+- [Environment variables](dropwizard/env-var.md)
 
 ### Git
 
 - [Recover Deleted Branch](git/recover-deleted.md)
 - [Bypass Git Hooks](git/skip-hooks.md)
 - [Use Credential Manager Under WSL](git/cred-wsl.md)
+- [Merge Individual Files](git/merge-single-file.md)
+- [Checkout a Tag](git/checkout-tag.md)
 
 ### GitHub
 
@@ -114,6 +119,7 @@
 
 - [Retrieve Windows product key](windows/productkey.md)
 - [Look up RGB codes with Microsoft Paint](windows/paint-dropper-tool.md)
+- [Command Line Interface to Windows Credential Manager](windows/cred-cli.md)
 
 ## Acknowledgements
 
