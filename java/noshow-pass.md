@@ -1,6 +1,6 @@
 # Hide Password in Command Line Argument using Argparse4j
 
-Since Argparse4j is a port of Python argparse it supports most expected features, including `getpass()` for password handling. In the case of `argparse4j` it is implemted by the [ArgumentAction](https://argparse4j.github.io/usage.html#custom-actions) interface.
+Since [Argparse4j](https://github.com/argparse4j/argparse4j) is a port of Python argparse it supports most expected features, including `getpass()` for password handling. In the case of `argparse4j` it is implemted by the [ArgumentAction](https://argparse4j.github.io/usage.html#custom-actions) interface.
 
 ```bash
 java App -p
