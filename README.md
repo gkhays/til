@@ -78,6 +78,7 @@
 - [Ignore null values with Jackson](java/jackson-ignore-null.md)
 - [Add Classpath to Shaded JAR](java/shaded-classpath.md)
 - [Import External Library in JShell](java/jshell-import-jar.md)
+- [Hide Password in Command Line Argument using Argparse4j](java/noshow-pass.md)
 
 ### Markdown
 
