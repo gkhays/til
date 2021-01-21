@@ -40,6 +40,7 @@ class PasswordAction implements ArgumentAction {
 
 1. [Argparse4j Custom Actions](https://argparse4j.github.io/usage.html#custom-actions)
 1. [Interface ArgumentAction](https://argparse4j.github.io/apidocs/net/sourceforge/argparse4j/inf/ArgumentAction.html) (JavaDoc)
+1. [Masking password input from the console : Java](https://stackoverflow.com/a/8138549/6146580)
 1. [Class Console](https://docs.oracle.com/javase/8/docs/api/java/io/Console.html)
 1. [Argparse4j](https://github.com/argparse4j/argparse4j)
 1. [Python: Using getpass with argparse](https://stackoverflow.com/a/57355741/6146580)
