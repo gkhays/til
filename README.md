@@ -79,6 +79,7 @@
 - [Add Classpath to Shaded JAR](java/shaded-classpath.md)
 - [Import External Library in JShell](java/jshell-import-jar.md)
 - [Hide Password in Command Line Argument using Argparse4j](java/noshow-pass.md)
+- [Convert Hex to Base64](java/hex-to-base64.md)
 
 ### Markdown
 
