@@ -53,6 +53,7 @@
 - [Shutdown options for Dropwizard](dropwizard/shutdown.md)
 - [Database transactions in non-Jersey resources](dropwizard/unitofwork-proxy.md)
 - [Environment variables](dropwizard/env-var.md)
+- [Add Swagger Documentation to Dropwizard](dropwizard/swagger.md)
 
 ### Git
 
@@ -61,6 +62,7 @@
 - [Use Credential Manager Under WSL](git/cred-wsl.md)
 - [Merge Individual Files](git/merge-single-file.md)
 - [Checkout a Tag](git/checkout-tag.md)
+- [Remove a Tag](git/remove-tag.md)
 
 ### GitHub
 
