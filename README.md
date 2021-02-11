@@ -23,6 +23,7 @@
 - [SSH](#ssh)
 - [Ubuntu](#ubuntu)
 - [VMware](#vmware)
+- [Wget](#wget)
 - [Windows](#windows)
 
 ---
@@ -64,6 +65,7 @@
 - [Merge Individual Files](git/merge-single-file.md)
 - [Checkout a Tag](git/checkout-tag.md)
 - [Remove a Tag](git/remove-tag.md)
+- [Modify Commit Message](git/modify-msg.md)
 
 ### GitHub
 
@@ -85,6 +87,11 @@
 - [Convert Hex to Base64](java/hex-to-base64.md)
 - [Get URI information](java/uri-info.md)
 
+### Kubernetes
+
+- [Switch Context](k8s/context.md)
+- [Copy Files from a Pod](k8s/kubectl-cp.md)
+
 ### Markdown
 
 - [List in Markdown Table Cell](markdown/list-in-table.md)
@@ -97,6 +104,7 @@
 ### PostgreSQL
 
 - [Export tables to CSV](postgres/export-csv.md)
+- [Change password](postgres/change-password.md)
 
 ### Postman
 
@@ -124,6 +132,10 @@
 ### VMware
 
 - [Force BIOS Setup](vmware/force-bios.md)
+
+### Wget
+
+- [Output JSON Response to Stdout](wget/get-stdout.md)
 
 ### Windows
 
