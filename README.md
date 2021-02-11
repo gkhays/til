@@ -17,6 +17,7 @@
 - [Java](#java)
 - [Markdown](#markdown)
 - [Microsoft Teams](#microsoft-teams)
+- [PostgreSQL](#postgresql)
 - [Postman](#postman)
 - [PowerShell](#powershell)
 - [SSH](#ssh)
