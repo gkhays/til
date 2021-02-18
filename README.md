@@ -8,6 +8,7 @@
 
 - [Ansible](#ansible)
 - [Authentication](#authentication)
+- [AWS](#aws)
 - [Chrome](#chrome)
 - [Docker](#docker)
 - [Dropwizard](#dropwizard)
@@ -35,6 +36,10 @@
 ### Authentication
 
 - [JSON Web Token (JWT) debugger](authentication/jwt-io.md)
+
+### AWS
+
+- [List MFA Devices](aws/list-mfa.md)
 
 ### Chrome
 
