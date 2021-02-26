@@ -77,6 +77,7 @@
 - [Checkout a Tag](git/checkout-tag.md)
 - [Remove a Tag](git/remove-tag.md)
 - [Modify Commit Message](git/modify-msg.md)
+- [Rename a Tag](git/rename-tag.md)
 
 ### GitHub
 
