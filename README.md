@@ -12,6 +12,7 @@
 - [Chrome](#chrome)
 - [Docker](#docker)
 - [Dropwizard](#dropwizard)
+- [Electron](#electron)
 - [Git](#git)
 - [GitHub](#github)
 - [HTTP](#http)
@@ -61,6 +62,11 @@
 - [Database transactions in non-Jersey resources](dropwizard/unitofwork-proxy.md)
 - [Environment variables](dropwizard/env-var.md)
 - [Add Swagger Documentation to Dropwizard](dropwizard/swagger.md)
+- [Change Log Level Using Admin Task](dropwizard/log-level.md)
+
+### Electron
+
+- [Exclude Files from an Electron Project](electron/exclude-files.md)
 
 ### Git
 
