@@ -27,6 +27,8 @@ Update settings.json for Microsoft Terminal with `Ctrl+,`.
 
 1. [Tutorial: Set up Powerline in Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup)
 1. [How to make a pretty prompt in Windows Terminal with Powerline, Nerd Fonts, Cascadia Code, WSL, and oh-my-posh](https://www.hanselman.com/blog/how-to-make-a-pretty-prompt-in-windows-terminal-with-powerline-nerd-fonts-cascadia-code-wsl-and-ohmyposh)
+1. [Setting Up Powerline Shell on Windows Subsystem for Linux](http://iamnotmyself.com/2017/04/15/setting-up-powerline-shell-on-windows-subsystem-for-linux/)
 1. [Cascadia Code](https://docs.microsoft.com/en-us/windows/terminal/cascadia-code)
 1. [Cascadia Code](https://github.com/microsoft/cascadia-code) (GitHub)
 1. [MEGATHREAD: Breaking settings changes in version 0.11! #5458](https://github.com/microsoft/terminal/issues/5458)
+1. [Oh my Posh](https://ohmyposh.dev/)
