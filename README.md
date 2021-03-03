@@ -98,6 +98,7 @@
 - [Hide Password in Command Line Argument using Argparse4j](java/noshow-pass.md)
 - [Convert Hex to Base64](java/hex-to-base64.md)
 - [Get URI information](java/uri-info.md)
+- [Shebang! Run Single File Java as Script](java/java-shebang.md)
 
 ### Kubernetes
 
