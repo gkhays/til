@@ -155,6 +155,8 @@
 - [Look up RGB codes with Microsoft Paint](windows/paint-dropper-tool.md)
 - [Command Line Interface to Windows Credential Manager](windows/cred-cli.md)
 - [Decode Base64 on the Command Line](windows/base64-decode.md)
+- [Set up Powerline in Windows Terminal](windows/powerline-winterm.md)
+- [Add Cmder to Windows Terminal](windows/cmder-winterm.md)
 
 ## Acknowledgements
 
