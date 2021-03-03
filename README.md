@@ -157,6 +157,7 @@
 - [Decode Base64 on the Command Line](windows/base64-decode.md)
 - [Set up Powerline in Windows Terminal](windows/powerline-winterm.md)
 - [Add Cmder to Windows Terminal](windows/cmder-winterm.md)
+- [Map WSL Disk as Network Drive](windows/map-wsl-disk.md)
 
 ## Acknowledgements
 
