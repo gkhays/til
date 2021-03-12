@@ -25,6 +25,7 @@
 - [SSH](#ssh)
 - [Ubuntu](#ubuntu)
 - [VMware](#vmware)
+- [VSCode](#vscode)
 - [Wget](#wget)
 - [Windows](#windows)
 - [WSL](#wsl)
