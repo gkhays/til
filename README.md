@@ -27,6 +27,7 @@
 - [VMware](#vmware)
 - [Wget](#wget)
 - [Windows](#windows)
+- [WSL](#wsl)
 
 ---
 
