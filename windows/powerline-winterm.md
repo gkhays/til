@@ -23,6 +23,26 @@ Update settings.json for Microsoft Terminal with `Ctrl+,`.
 ]
 ```
 
+## WSL
+
+```bash
+wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh
+chmod +x /usr/local/bin/oh-my-posh
+```
+
+```bash
+mkdir ~/.poshthemes
+wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/themes.zip -O ~/.poshthemes/themes.zip
+unzip ~/.poshthemes/themes.zip -d ~/.poshthemes
+chmod u+rw ~/.poshthemes/*.json
+rm ~/.poshthemes/themes.zip
+```
+
+## Troublehooting
+
+> JanDeDobbeleer commented 10 days ago
+> Set-Theme is a V2 cmdlet. This got renamed to Set-PoshPrompt for V3. See here for more info.
+
 ## References
 
 1. [Tutorial: Set up Powerline in Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup)
@@ -32,3 +52,5 @@ Update settings.json for Microsoft Terminal with `Ctrl+,`.
 1. [Cascadia Code](https://github.com/microsoft/cascadia-code) (GitHub)
 1. [MEGATHREAD: Breaking settings changes in version 0.11! #5458](https://github.com/microsoft/terminal/issues/5458)
 1. [Oh my Posh](https://ohmyposh.dev/)
+1. [Windows Terminal - PowerShell customization via oh-my-posh/posh-git Set-Theme error? #441](https://github.com/JanDeDobbeleer/oh-my-posh/issues/441)
+1. [How to Make Windows Terminal Transparent](https://allthings.how/how-to-make-windows-terminal-transparent/)
