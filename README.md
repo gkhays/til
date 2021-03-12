@@ -63,6 +63,7 @@
 - [Environment variables](dropwizard/env-var.md)
 - [Add Swagger Documentation to Dropwizard](dropwizard/swagger.md)
 - [Change Log Level Using Admin Task](dropwizard/log-level.md)
+- [Run a Background Process in Dropwizard](dropwizard/background-process.md)
 
 ### Electron
 
