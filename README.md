@@ -146,6 +146,10 @@
 
 - [Force BIOS Setup](vmware/force-bios.md)
 
+## VSCode
+
+- [Change VSCode Terminal Font](vscode/terminal-font.md)
+
 ### Wget
 
 - [Output JSON Response to Stdout](wget/get-stdout.md)
