@@ -88,6 +88,7 @@
 
 - [Create Empty Folder with Online Editor](github/empty-dir.md)
 - [GitHub CLI](github/gh-cli.md)
+- [Add an Image to a Wiki](github/wiki-img.md)
 
 ### HTTP
 
