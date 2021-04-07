@@ -124,6 +124,7 @@
 
 - [Export tables to CSV](postgres/export-csv.md)
 - [Change password](postgres/change-password.md)
+- [Dump a Database from a Docker Container](postgres/dump-container.md)
 
 ### Postman
 
