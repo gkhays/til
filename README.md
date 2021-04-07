@@ -82,6 +82,7 @@
 - [Modify Commit Message](git/modify-msg.md)
 - [Rename a Tag](git/rename-tag.md)
 - [Change Commit for Tag](git/change-tag.md)
+- [Revert a Revert](git/revert-revert.md)
 
 ### GitHub
 
