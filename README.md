@@ -105,6 +105,7 @@
 - [Convert Hex to Base64](java/hex-to-base64.md)
 - [Get URI information](java/uri-info.md)
 - [Shebang! Run Single File Java as Script](java/java-shebang.md)
+- [Display Contents of JAR Manifest](java/jar-manifest.md)
 
 ### Kubernetes
 
