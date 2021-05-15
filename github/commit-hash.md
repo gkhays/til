@@ -28,3 +28,5 @@ https://github.com/jerith666/git-graph/commit/35e32b
 ## References
 
 1. [Find a commit on GitHub given the commit hash](https://stackoverflow.com/a/12214817/6146580)
+1. [Searching commits](https://docs.github.com/en/github/searching-for-information-on-github/searching-commits)
+1. [About searching on GitHub](https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github)
