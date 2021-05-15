@@ -92,6 +92,10 @@
 - [Add an Image to a Wiki](github/wiki-img.md)
 - [Filter API Results with JQ](github/api-jq.md)
 
+### HTML
+
+- [Open a New Tab or Window from Form](new-tab.md)
+
 ### HTTP
 
 - [A simple HTTP Request & Response Service](http/httpbin.md)
