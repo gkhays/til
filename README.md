@@ -83,12 +83,14 @@
 - [Rename a Tag](git/rename-tag.md)
 - [Change Commit for Tag](git/change-tag.md)
 - [Revert a Revert](git/revert-revert.md)
+- [Find Commit by Git Hash](git/commit-hays.md)
 
 ### GitHub
 
 - [Create Empty Folder with Online Editor](github/empty-dir.md)
 - [GitHub CLI](github/gh-cli.md)
 - [Add an Image to a Wiki](github/wiki-img.md)
+- [Filter API Results with JQ](github/api-jq.md)
 
 ### HTTP
 
@@ -106,6 +108,11 @@
 - [Get URI information](java/uri-info.md)
 - [Shebang! Run Single File Java as Script](java/java-shebang.md)
 - [Display Contents of JAR Manifest](java/jar-manifest.md)
+- [Check Certificates in a Keystore](java/keystore-certs.md)
+
+### JavaScript
+
+- [Reload a Page](javascript/reload-page.md)
 
 ### Kubernetes
 
@@ -115,6 +122,10 @@
 ### Markdown
 
 - [List in Markdown Table Cell](markdown/list-in-table.md)
+
+### Maven
+
+- [Maven Parallel Build](maven/parallel-build.md)
 
 ### Microsoft Teams
 
