@@ -84,6 +84,8 @@
 - [Change Commit for Tag](git/change-tag.md)
 - [Revert a Revert](git/revert-revert.md)
 - [Find Commit by Git Hash](git/commit-hays.md)
+- [Get the Commit Hash](git/retrieve-hash.md)
+- [Locate Branches the Commit is On](git/commit-branch.md)
 
 ### GitHub
 
