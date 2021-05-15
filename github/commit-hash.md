@@ -7,6 +7,14 @@ git log -p -1 35e32b6a00dec02ae7d7c45c6b7106779a124685
 
 ## GitHub
 
+Use a URL of the form:
+
+```
+https://github.com/<owner>/<project>/commit/<hash>
+```
+
+You can also use the short hash. Examples:
+
 https://github.com/jerith666/git-graph/commit/35e32b6a00dec02ae7d7c45c6b7106779a124685
 
 The log.
