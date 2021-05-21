@@ -166,6 +166,7 @@
 - [Recover root password on Ubuntu 18.04](ubuntu/recover-passwd.md)
 - [Disable ipv6 in Ubuntu](ubuntu/disable-ipv6.md)
 - [Troubleshoot reverse lookups on Ubuntu 18.04](ubuntu/dhcp-reverse.md)
+- [Set Default Java Version](ubuntu/default-java.md)
 
 ### VMware
 
