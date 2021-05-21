@@ -51,3 +51,4 @@ Press <enter> to keep the current choice[*], or type selection number:
 
 1. [How to Install OpenJDK 11 in Ubuntu 18.04](https://www.ubuntu18.com/ubuntu-install-openjdk-11/)
 1. [How to use the command update-alternatives --config java](https://stackoverflow.com/questions/12787757/how-to-use-the-command-update-alternatives-config-java)
+1. [OpenJDK 8 Download and Installation on Ubuntu](https://techoral.com/blog/java/install-openjdk-8-ubuntu.html)
