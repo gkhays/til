@@ -25,3 +25,5 @@ return query.getResultList();
 1. [Update AbstractDAO to use JPA CriteriaQuery API #2259](https://github.com/dropwizard/dropwizard/issues/2259)
 1. [JPA Criteria API Queries](https://www.objectdb.com/java/jpa/query/criteria)
 1. [JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)
+1. [Hibernate - Criteria Queries](https://www.tutorialspoint.com/hibernate/hibernate_criteria_queries.htm)
+1. [JPA Criteria API IN expression Parameter list](https://stackoverflow.com/a/13145364/6146580)
