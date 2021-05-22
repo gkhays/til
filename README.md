@@ -66,6 +66,7 @@
 - [Add Swagger Documentation to Dropwizard](dropwizard/swagger.md)
 - [Change Log Level Using Admin Task](dropwizard/log-level.md)
 - [Run a Background Process in Dropwizard](dropwizard/background-process.md)
+- [Update Deprecated API Reference](dropwizard/deprecated-hibernate.md)
 
 ### Electron
 
