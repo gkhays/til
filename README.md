@@ -194,6 +194,7 @@
 ### WSL
 
 - [Map WSL Disk as Network Drive](windows/map-wsl-disk.md)
+- [Browse WSL Files from Windows Explorer](browse-explorer.md)
 
 ## Acknowledgements
 
