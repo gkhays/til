@@ -94,6 +94,7 @@
 - [GitHub CLI](github/gh-cli.md)
 - [Add an Image to a Wiki](github/wiki-img.md)
 - [Filter API Results with JQ](github/api-jq.md)
+- [GitHub Statistics in Your README](github-stats.md)
 
 ### HTML
 
