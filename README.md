@@ -56,6 +56,9 @@
 - [Docker Compose Restart Policy](docker/docker-compose-restart.md)
 - [Docker Health Check](docker/health-check.md)
 - [Format Docker Inspect with jq](docker/format-jq.md)
+- [Override the Entry Point](docker/entrypoint.md)
+- [Volume Mounts on Windows](docker/windows-volume.md)
+- [Docker Import](docker/import.md)
 
 ### Dropwizard
 
@@ -158,6 +161,10 @@
 - [Equivalent of Which in PowerShell](powershell/which.md)
 - [How to Dot Source in PowerShell](powershell/source.md)
 
+### RDP
+
+- [Multiple Monitors with Remote Desktop Session](rdp/multi-monitor.md)
+
 ### SSH
 
 - [sshpass](ssh/sshpass.md)
@@ -194,8 +201,10 @@
 
 ### WSL
 
-- [Map WSL Disk as Network Drive](windows/map-wsl-disk.md)
-- [Browse WSL Files from Windows Explorer](browse-explorer.md)
+- [Map WSL Disk as Network Drive](wsl/map-wsl-disk.md)
+- [Browse WSL Files from Windows Explorer](wsl/browse-explorer.md)
+- [Set Terminal Starting Directory to WSL Home](wsl/wsl-starting-dir.md)
+- [Limit WSL 2 Memory](wsl/limit-memory.md)
 
 ## Acknowledgements
 
