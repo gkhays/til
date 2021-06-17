@@ -1,3 +1,5 @@
+# Set Terminal Starting Directory to WSL Home
+
 ```json
 {
     "guid": "{c6eaf9f4-32a7-5fdc-b5cf-066e43243e40}",
