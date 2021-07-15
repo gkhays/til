@@ -90,6 +90,7 @@
 - [Find Commit by Git Hash](git/commit-hays.md)
 - [Get the Commit Hash](git/retrieve-hash.md)
 - [Locate Branches the Commit is On](git/commit-branch.md)
+- [Signing Commits](git/commit-sig.md)
 
 ### GitHub
 
