@@ -3,32 +3,13 @@ keybase.io/<username>
 ```
 
 ```
-git config -l
-core.symlinks=false
-core.autocrlf=true
-core.fscache=true
-color.diff=auto
-color.status=auto
-color.branch=auto
-color.interactive=true
-help.format=html
-rebase.autosquash=true
-http.sslbackend=schannel
-diff.astextplain.textconv=astextplain
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
+git config --list
+
 credential.helper=manager
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-user.name=Garve Hays
-user.email=gkhays@gmail.com
+user.name=Seetha Demo
+user.email=cdemo@demo.com
 user.signingkey=Xxx
 credential.helper=wincred
-core.editor=vim
 ```
 
 ![Public Key](../images/keybase-pubkey.png)
