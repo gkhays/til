@@ -43,6 +43,7 @@
 ### AWS
 
 - [List MFA Devices](aws/list-mfa.md)
+- [List CIDR Blocks in Use](aws/list-cidr.md)
 
 ### Chrome
 
