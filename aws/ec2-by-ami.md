@@ -4,7 +4,7 @@ The one is in my Evernote notebook (from April 2021) but I refer to it frequentl
 
 ```bash
 aws ec2 describe-instances \
-  --filters "Name=instance-state-name,Values=running" "Name=image-id,Values=ami-0cab5d75f06b7601a" \
+  --filters "Name=instance-state-name,Values=running" "Name=image-id,Values=ami-xyz" \
   --query "Reservations[*].Instances[*].{Instance:InstanceId,Name:Tags[?Key=='Name']|[0].Value,Status:State.Name}" \
   --output table
 ```
