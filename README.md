@@ -44,6 +44,7 @@
 
 - [List MFA Devices](aws/list-mfa.md)
 - [List CIDR Blocks in Use](aws/list-cidr.md)
+- [List EC2 Instances Filtered by AMI](aws/ec2-by-ami.md)
 
 ### Chrome
 
