@@ -168,6 +168,10 @@
 
 - [Multiple Monitors with Remote Desktop Session](rdp/multi-monitor.md)
 
+### React
+
+- [How to Use Comments in React](react/comments.md)
+
 ### SSH
 
 - [sshpass](ssh/sshpass.md)
