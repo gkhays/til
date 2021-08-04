@@ -133,6 +133,7 @@
 
 - [Switch Context](k8s/context.md)
 - [Copy Files from a Pod](k8s/kubectl-cp.md)
+- [Obtain Previous Container's Crash Log](k8s/crash-log.md)
 
 ### Markdown
 
