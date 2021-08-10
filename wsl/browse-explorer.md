@@ -23,3 +23,8 @@ $ wsl -l -v
 In Windows Explorer.
 
 ![Explore WSL](../images/explore-wsl.png)
+
+## References
+
+1. [How to Access Your Linux (WSL) Files in Windows 10](https://www.howtogeek.com/426749/how-to-access-your-linux-wsl-files-in-windows-10/)
+1. [Access Linux filesystems in Windows and WSL 2](https://devblogs.microsoft.com/commandline/access-linux-filesystems-in-windows-and-wsl-2/)
