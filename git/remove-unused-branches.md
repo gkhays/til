@@ -1,7 +1,15 @@
 # Remove Unused Branches
 
+First locate branches that have already been merged.
+
 ```bash
 git branch --merged
+```
+
+Then remove them.
+
+```bash
+git branch --merged | grep fix | xargs git branch -d
 ```
 
 ## References
