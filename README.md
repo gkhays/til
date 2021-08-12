@@ -50,6 +50,7 @@
 ### Chrome
 
 - [Chrome Proxy](chrome/proxy.md)
+- [How to Obtain a HAR Capture](har-capture.md)
 
 ### Docker
 
