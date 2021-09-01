@@ -127,6 +127,7 @@
 - [Shebang! Run Single File Java as Script](java/java-shebang.md)
 - [Display Contents of JAR Manifest](java/jar-manifest.md)
 - [Check Certificates in a Keystore](java/keystore-certs.md)
+- [Update Manifest inside JAR](java/update-manifest.md)
 
 ### JavaScript
 
