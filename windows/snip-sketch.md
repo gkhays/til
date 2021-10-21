@@ -4,11 +4,15 @@ Launch Snip & Sketch with the following keyboard shortcut.
 
 `Windows logo key + Shift + S`
 
+![Snipping Tool](../images/snip-sketch.png)
+
 Also available from the Action Center.
 
 `Windows logo key + A`
 
-![Snipping Tool](../images/snip-sketch.png)
+![Action Center](../images/action-center.png)
+
+(See screen snip)
 
 ## References
 
