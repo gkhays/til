@@ -63,6 +63,7 @@
 - [Override the Entry Point](docker/entrypoint.md)
 - [Volume Mounts on Windows](docker/windows-volume.md)
 - [Docker Import](docker/import.md)
+- [Extract File from Docker Image](docker/extract-file.md)
 
 ### Dropwizard
 
@@ -215,6 +216,7 @@
 - [Set up Powerline in Windows Terminal](windows/powerline-winterm.md)
 - [Add Cmder to Windows Terminal](windows/cmder-winterm.md)
 - [Applications Virtual Folder Shortcut](windows/apps-shortcut.md)
+- [Using Windows 10 Snip & Sketch](windows/snip-sketch.md)
 
 ### WSL
 
