@@ -202,6 +202,7 @@
 ## VSCode
 
 - [Change VSCode Terminal Font](vscode/terminal-font.md)
+- [Attach a Source JAR](vscode/source-jar.md)
 
 ### Wget
 
