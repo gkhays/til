@@ -162,6 +162,7 @@
 ### Postman
 
 - [Load payload from file](postman/file-payload.md)
+- [Show Request Headers](postman/request-headers.md)
 
 ### PowerShell
 
