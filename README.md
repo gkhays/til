@@ -179,6 +179,10 @@
 
 - [How to Use Comments in React](react/comments.md)
 
+### Rust
+
+- [Isolating a Rust Application in a Docker Container](rust/rust-in-docker.md)
+
 ### SSH
 
 - [sshpass](ssh/sshpass.md)
