@@ -69,6 +69,44 @@ root = /
 options = "metadata"
 ```
 
+### Docker-Compose Anyone?
+
+I also got it working with `docker-compose`. It's not intuitive, but works.
+
+`docker-compose.yml`
+
+```yaml
+version: "3"
+services:
+  monolith:
+    image: rust
+    command: cargo install --path .
+    volumes:
+      - "$PWD:$PWD"
+    working_dir: "$PWD"
+    user: "$UID:1000"
+    #uid: '$UID' # $(id -u)
+    #gid: '1000' # $(id -g)
+```
+
+Then, to install:
+
+```bash
+docker-compose up
+```
+
+Now, since the `monolith` "service" is "up" you can run it against a web site:
+
+```bash
+docker-compose run monolith ./target/release/monolith https://www.grepular.com
+```
+
+Finally, clean up:
+
+```bash
+docker-compose down
+```
+
 ## References
 
 1. [Show HN: CLI tool for saving web pages as a single file](https://news.ycombinator.com/item?id=20774322)
