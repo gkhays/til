@@ -27,6 +27,18 @@ Where the output is:
 +----------------+----------------------------+
 ```
 
+Alternatively
+
+```bash
+aws ec2 describe-vpcs --region 'us-east-2' --query 'Vpcs[].CidrBlock'
+```
+
+Or with `jq`.
+
+```bash
+aws ec2 describe-vpcs --region 'us-east-2' | jq '.Vpcs[].CidrBlock'
+```
+
 ## References
 
 1. [describe-subnets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-subnets.html)
