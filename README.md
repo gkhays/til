@@ -215,6 +215,7 @@
 
 - [Change VSCode Terminal Font](vscode/terminal-font.md)
 - [Attach a Source JAR](vscode/source-jar.md)
+- [Search and Replace Tabs in VSCode](vscode/replace-tabs.md)
 
 ### Wget
 
