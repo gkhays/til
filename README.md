@@ -15,6 +15,7 @@
 - [Electron](#electron)
 - [Git](#git)
 - [GitHub](#github)
+- [H2](#h2)
 - [HTML](#html)
 - [HTTP](#http)
 - [Java](#java)
