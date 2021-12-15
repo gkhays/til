@@ -5,3 +5,5 @@ Use `Ctrl + /` or `Cmd + /` to navigate to the search or command entry box and e
 - `/activity`
 - `/files`
 - `/save`
+
+![Keyboard Navigate](../images/keyboard-navigate.png)
