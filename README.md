@@ -183,6 +183,7 @@
 - [Scoop](powershell/scoop.md)
 - [Equivalent of Which in PowerShell](powershell/which.md)
 - [How to Dot Source in PowerShell](powershell/source.md)
+- [Generate a GUID](powershell/guid.md)
 
 ### RDP
 
