@@ -21,6 +21,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)]
 - [Kubernetes](#k8s)
+- [Linux](#linux)
 - [Markdown](#markdown)
 - [Microsoft Teams](#microsoft-teams)
 - [PostgreSQL](#postgresql)
