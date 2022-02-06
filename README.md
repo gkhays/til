@@ -153,6 +153,10 @@
 - [Copy Files from a Pod](k8s/kubectl-cp.md)
 - [Obtain Previous Container's Crash Log](k8s/crash-log.md)
 
+### Linux
+
+- [Type List Backwards](linux/list-backwards.md)
+
 ### Markdown
 
 - [List in Markdown Table Cell](markdown/list-in-table.md)
