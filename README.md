@@ -153,6 +153,7 @@
 - [Switch Context](k8s/context.md)
 - [Copy Files from a Pod](k8s/kubectl-cp.md)
 - [Obtain Previous Container's Crash Log](k8s/crash-log.md)
+- [List Recently Deleted Pods](k8s/deleted-pods.md)
 
 ### Linux
 
@@ -207,6 +208,7 @@
 - [sshpass](ssh/sshpass.md)
 - [ssh-copy-id](ssh/ssh-copy-id)
 - [Show SSH Key Hashes](ssh/ssh-hash.md)
+- [Remove Passphrase from SSH Key](ssh/remove-passphrase.md)
 
 ### Ubuntu
 
@@ -243,6 +245,7 @@
 - [Add Cmder to Windows Terminal](windows/cmder-winterm.md)
 - [Applications Virtual Folder Shortcut](windows/apps-shortcut.md)
 - [Using Windows 10 Snip & Sketch](windows/snip-sketch.md)
+- [Add Git Bash to Windows Terminal](windows/gitbash-winterm.md)
 
 ### WSL
 
