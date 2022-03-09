@@ -13,3 +13,4 @@ ssh-keygen -p [-P old_passphrase] [-N new_passphrase] [-f keyfile]
 ## References
 
 1. [How do I remove the passphrase for the SSH key without having to create a new key?](https://stackoverflow.com/a/112409/6146580)
+1. [How to manage passphrase of an SSH key](https://www.simplified.guide/ssh/set-remove-passphrase)
