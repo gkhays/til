@@ -143,6 +143,7 @@
 - [Display Contents of JAR Manifest](java/jar-manifest.md)
 - [Check Certificates in a Keystore](java/keystore-certs.md)
 - [Update Manifest inside JAR](java/update-manifest.md)
+- [Java Console Application Spinner](java/console-spinner.md)
 
 ### JavaScript
 
