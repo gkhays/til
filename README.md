@@ -124,6 +124,7 @@
 - [Open a New Tab or Window from Form](new-tab.md)
 - [Disable Autocomplete](disable-autocomplete.md)
 - [Remove Indent from Lists](remove-indent.md)
+- [HTML 5 Details Tag](html/html5-details.md)
 
 ### HTTP
 
