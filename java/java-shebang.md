@@ -24,3 +24,4 @@ public class CanonicalTest {
 1. [Single File Source Code with Java 11](https://medium.com/oracledevs/single-file-source-code-with-java-11-74d1a4c3d31)
 1. [JEP 330: Launch Single-File Source-Code Programs](https://openjdk.java.net/jeps/330)
 1. [Shebang script files with Java and Docker](https://thepracticaldeveloper.com/shebang-script-java/)
+2. [Scripting Java 11, Shebang And All](https://nipafx.dev/scripting-java-shebang/)
