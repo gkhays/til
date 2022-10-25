@@ -31,6 +31,7 @@
 - [React](#react)
 - [Rust](#rust)
 - [SSH](#ssh)
+- [Terraform](#terraform)
 - [Terragrunt](#terragrunt)
 - [Ubuntu](#ubuntu)
 - [VIM](#vim)
@@ -212,6 +213,10 @@
 - [ssh-copy-id](ssh/ssh-copy-id)
 - [Show SSH Key Hashes](ssh/ssh-hash.md)
 - [Remove Passphrase from SSH Key](ssh/remove-passphrase.md)
+
+### Terraform
+
+- [Create a graph of Terraform resources](terraform/tform-graph.md)
 
 ### Terragrunt
 
