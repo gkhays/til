@@ -19,7 +19,7 @@
 - [HTML](#html)
 - [HTTP](#http)
 - [Java](#java)
-- [JavaScript](#javascript)]
+- [JavaScript](#javascript)
 - [Kubernetes](#k8s)
 - [Linux](#linux)
 - [Markdown](#markdown)
