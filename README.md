@@ -2,6 +2,8 @@
 
 > Today I Learned
 
+My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github.com/jbranchaud/til). I'd also like to point out [simonw/til](https://github.com/simonw/til).
+
 ---
 
 ### Categories
