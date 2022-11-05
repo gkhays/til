@@ -109,6 +109,7 @@
 - [Locate Branches the Commit is On](git/commit-branch.md)
 - [Signing Commits](git/commit-sig.md)
 - [Remove Unused Branches](git/remove-unused-branches.md)
+- [Remove from Git but Keep Local File](git/local-not-git.md)
 
 ### GitHub
 
