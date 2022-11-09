@@ -155,6 +155,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 ### JavaScript
 
 - [Reload a Page](javascript/reload-page.md)
+- [Set JavaScript Console Log Level](javascript/console-log-level.md)
 
 ### Kubernetes
 
