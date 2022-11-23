@@ -121,6 +121,10 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 - [Filter API Results with JQ](github/api-jq.md)
 - [GitHub Statistics in Your README](github-stats.md)
 
+### Golang
+
+- [Repeat a String in Go](golang/repeat-string.md)
+
 ### H2
 
 - [Import Data to H2 From PostgreSQL](h2/import-postgres.md)
