@@ -25,6 +25,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 - [Kubernetes](#k8s)
 - [Linux](#linux)
 - [Markdown](#markdown)
+- [Maven](#maven)
 - [Microsoft Teams](#microsoft-teams)
 - [PostgreSQL](#postgresql)
 - [Postman](#postman)
@@ -181,6 +182,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 ### Maven
 
 - [Maven Parallel Build](maven/parallel-build.md)
+- [Special Characters in Maven Settings](maven/settings-special-char.md)
 
 ### Microsoft Teams
 
