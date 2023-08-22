@@ -183,6 +183,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 
 - [Maven Parallel Build](maven/parallel-build.md)
 - [Special Characters in Maven Settings](maven/settings-special-char.md)
+- [Set Execute Permission in Maven](maven/set-execute-permission.md)
 
 ### Microsoft Teams
 
