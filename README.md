@@ -11,6 +11,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 - [Ansible](#ansible)
 - [Authentication](#authentication)
 - [AWS](#aws)
+- [Bash](#bash)
 - [Chrome](#chrome)
 - [Docker](#docker)
 - [Dropwizard](#dropwizard)
@@ -61,6 +62,10 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 - [List EC2 Instances Filtered by AMI](aws/ec2-by-ami.md)
 - [List RDS Cluster Snapshots](aws/list-snapshots.md)
 - [Exit Assumed IAM Role](aws/exit-assumed.md)
+
+### Bash
+
+- [Get Multiple Values from a Bash Function](bash/multiple-return-values.md)
 
 ### Chrome
 
