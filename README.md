@@ -172,6 +172,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 ### Linux
 
 - [Type List Backwards](linux/list-backwards.md)
+- [Get Version and Details of Package Using Zypper](linux/zypper-details.md)
 
 ### Markdown
 
