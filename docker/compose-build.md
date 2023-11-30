@@ -15,6 +15,12 @@ services:
       - "8085:8085"
 ```
 
+To build the image:
+
+```console
+docker-compose build
+```
+
 ## References
 
 1. [docker-compose build](https://docs.docker.com/compose/reference/build/)
