@@ -162,6 +162,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 -   [Check Certificates in a Keystore](java/keystore-certs.md)
 -   [Update Manifest inside JAR](java/update-manifest.md)
 -   [Java Console Application Spinner](java/console-spinner.md)
+-   [Java Simple Web Server](java/java-simple-webserver.md)
 
 ### JavaScript
 
