@@ -5,14 +5,16 @@ I knew that `docker-compose` supports a `build` directive which allows you to sp
 ```yml
 version: "2.1"
 services:
-  test:
-    build:
-      context: .
-      dockerfile: docker/Dockerfile
-    image: gkh/test:1.1
-    ports:
-      - "8080:8080"
-      - "8085:8085"
+    test:
+        image: gkh/test:1.1
+        build:
+            context: .
+            dockerfile: docker/Dockerfile
+        entrypoint: /bin/bash
+        command: ["npm install"]
+        ports:
+            - "8080:8080"
+            - "8085:8085"
 ```
 
 To build the image:
