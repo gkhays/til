@@ -35,6 +35,7 @@ manwholostthesea.txt
 heijningen-thesis.pdf
 automatedwhiteboxfuzzing.pdf
 stp.pdf
+...
 ```
 
 Yes, I've made my `TIL` into somewhat of a polyglot by unzipping a [polyglot file](https://github.com/angea/pocorgtfo/blob/master/releases/pocorgtfo18.pdf)! 😭
