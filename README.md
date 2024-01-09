@@ -131,6 +131,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 ### Golang
 
 -   [Repeat a String in Go](golang/repeat-string.md)
+-   [Reduce the Size of a Go Binary](golang/reduce-size.md)
 
 ### H2
 
