@@ -1,6 +1,6 @@
 # Reduce the Size of a Go Binary
 
-Removing debug information from a Go binary can reduce its "footprint." This is accomplished by passing the `-s` amd `-w` `ldflags`. This can result in up to a 30% reduction in size.
+Removing debug information from a Go binary can reduce its "footprint." This is accomplished by passing the `-s` and `-w` `ldflags`. This can result in up to a 30% reduction in size.
 
 ```bash
 go build -ldflags "-s -w" -o go-slim
