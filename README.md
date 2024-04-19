@@ -67,6 +67,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 
 -   [Get Multiple Values from a Bash Function](bash/multiple-return-values.md)
 -   [Move Multiple Files](bash/move-multiple-files.md)
+-   [Expand Parameters](bash/expand-variables.md)
 
 ### Chrome
 
