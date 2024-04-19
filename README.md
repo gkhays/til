@@ -207,6 +207,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 -   [Change password](postgres/change-password.md)
 -   [Dump a Database from a Docker Container](postgres/dump-container.md)
 -   [PostgreSQL Is Ready Utility](postgres/pg-isready.md)
+-   [Analyze a PostgreSQL Database from the Command Line](postgres/analyze-db.md)
 
 ### Postman
 
