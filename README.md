@@ -222,6 +222,10 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 -   [How to Dot Source in PowerShell](powershell/source.md)
 -   [Generate a GUID](powershell/guid.md)
 
+### Raspberry Pi
+
+-   [Play Sound from Unattended Session](pi/headless-sound.md)
+
 ### RDP
 
 -   [Multiple Monitors with Remote Desktop Session](rdp/multi-monitor.md)
