@@ -31,6 +31,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 -   [PostgreSQL](#postgresql)
 -   [Postman](#postman)
 -   [PowerShell](#powershell)
+-   [Raspberry Pi](#pi)
 -   [RDP](#rdp)
 -   [React](#react)
 -   [Rust](#rust)
