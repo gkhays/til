@@ -28,6 +28,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 -   [Markdown](#markdown)
 -   [Maven](#maven)
 -   [Microsoft Teams](#microsoft-teams)
+-   [Obsidian](#obsidian)
 -   [PostgreSQL](#postgresql)
 -   [Postman](#postman)
 -   [PowerShell](#powershell)
@@ -201,6 +202,10 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 
 -   [Navigate from the keyboard](msteams/navigate.md)
 -   [Export Wiki as PDF Document](msteams/export-wiki.md)
+
+### Obsidian
+
+-  [Callouts](obsidian/callouts.md)
 
 ### PostgreSQL
 
