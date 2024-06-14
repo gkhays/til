@@ -206,6 +206,8 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 ### Obsidian
 
 -  [Callouts](obsidian/callouts.md)
+-  [Change Location of Images](image-location.md)
+-  [How to Embed YouTube Videos](youtube-videos.md)
 
 ### PostgreSQL
 
