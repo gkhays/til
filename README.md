@@ -230,6 +230,10 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 -   [How to Dot Source in PowerShell](powershell/source.md)
 -   [Generate a GUID](powershell/guid.md)
 
+### Python
+
+-   [UV Python Package and Project Manager](python/uv.md)
+
 ### Raspberry Pi
 
 -   [Play Sound from Unattended Session](pi/headless-sound.md)
