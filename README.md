@@ -197,6 +197,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 -   [List in Markdown Table Cell](markdown/list-in-table.md)
 -   [Internal, Relative Links](markdown/internal-links.md)
 -   [Note and Warning Emphasis](markdown/note-warning.md)
+-   [Comments in Markdown](markdown/comments.md)
 
 ### Maven
 
