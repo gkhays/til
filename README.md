@@ -18,6 +18,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 -   [Electron](#electron)
 -   [Git](#git)
 -   [GitHub](#github)
+-   [Helm](#helm)
 -   [H2](#h2)
 -   [HTML](#html)
 -   [HTTP](#http)
@@ -136,6 +137,10 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 -   [Repeat a String in Go](golang/repeat-string.md)
 -   [Reduce the Size of a Go Binary](golang/reduce-size.md)
 
+### Helm
+
+-   [Side Effect of the Ingress Host Entry](helm/host-entry.md)
+
 ### H2
 
 -   [Import Data to H2 From PostgreSQL](h2/import-postgres.md)
@@ -172,6 +177,7 @@ My "Today I Learned" (TIL) snippets, inspired by [jbranchaud/til](https://github
 
 -   [Reload a Page](javascript/reload-page.md)
 -   [Set JavaScript Console Log Level](javascript/console-log-level.md)
+-   [JavaScript Hoisting](javascript/why-let.md)
 
 ### Kubernetes
 
